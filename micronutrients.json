@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1micronutrients",
+        "name":"Marine Oméga 3",
+        "price": 40,
+        "image": "image/Micronutrients/OMEGA3.jpg"
+    },
+    {
+        "id": "2micronutrients",
+        "name":"L-Arginine",
+        "price": 20,
+        "image": "image/Micronutrients/ZNC.jpg"
+    },
+    {
+        "id": "3micronutrients",
+        "name":"Magnesium Bisglycinate",
+        "price": 30,
+        "image": "image/Micronutrients/MAGNESIUM-3D.jpg"
+    },
+    {
+        "id": "4micronutrients",
+        "name":"My Vitamin Advanced Formula",
+        "price": 25,
+        "image": "image/Micronutrients/MY-VITAMIN-3D.jpg"
+    },
+    {
+        "id": "5micronutrients",
+        "name":"Total VITAMIN",
+        "price": 30,
+        "image": "image/Micronutrients/TOTAL-VITAMIN-3D.jpg"
+    },
+    {
+        "id": "6micronutrients",
+        "name":"Trypto Melatonin",
+        "price": 20,
+        "image": "image/Micronutrients/MELATONINE.jpg"
+    }
+]

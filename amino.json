@@ -1,0 +1,21 @@
+[
+    {
+        "id": "1amino",
+        "name":"BCAA 2:1:1 PERFORM-C",
+        "price": 60,
+        "image": "image/Amino/BCAA-FRAMBOISE-1.jpg"
+    },
+    {
+        "id": "2amino",
+        "name":"Hydro EAA ZERO + Histidine",
+        "price": 65,
+        "image": "image/Amino/EAA-FRAMOISE.jpg"
+    },
+    {
+        "id": "3amino",
+        "name":"Micronized L-Glutamine",
+        "price": 60,
+        "image": "image/Amino/L-GLUTAMINE-1.jpg"
+    }
+    
+]

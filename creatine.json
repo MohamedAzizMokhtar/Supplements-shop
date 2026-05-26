@@ -1,0 +1,21 @@
+[
+    {
+        "id": "1creatine",
+        "name":"Flavored Creatine",
+        "price": 125,
+        "image": "image/Creatine/CREA-RED-FRUITS.jpg"
+    },
+    {
+        "id": "2creatine",
+        "name":"Creatine Monohydrate",
+        "price": 95,
+        "image": "image/Creatine/WhatsApp-Image-2023-06-07-at-15.31.22.jpeg"
+    },
+    {
+        "id": "3creatine",
+        "name":"Creatine Monohydrate Format Eco",
+        "price": 80,
+        "image": "image/Creatine/WhatsApp-Image-2023-06-07-at-15.30.14.jpeg"
+    }
+    
+]

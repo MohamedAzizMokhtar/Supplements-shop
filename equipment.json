@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "name":"Resistant gym ball",
+        "price": 110,
+        "image": "image/Equipments/ballon-de-gym-resistant-fitness-taille-3-75-cm-turquoise.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Folding wall pull-up bar",
+        "price": 190,
+        "image": "image/Equipments/barre-de-traction-musculation-pull-up-bar-900.jpg"
+    },
+    {
+        "id": 3,
+        "name":"Pull-up bar for door with lock",
+        "price": 110,
+        "image": "image/Equipments/barre-de-traction-verrouillable-70-cm.jpg"
+    },
+    {
+        "id": 4,
+        "name":"20kg weightlifting bar",
+        "price": 990,
+        "image": "image/Equipments/barre-d-halterophilie-de-20-kg-manchon-de-diametre-50-mm-prise-en-main-28-mm.jpg"
+    },
+    {
+        "id": 5,
+        "name":"Dumbbell weight training bar",
+        "price": 49,
+        "image": "image/Equipments/barre-haltere-musculation-35cm-28mm.jpg"
+    },
+    {
+        "id": 6,
+        "name":"Curl weight training bar",
+        "price": 139,
+        "image": "image/Equipments/barre-musculation-curl-1m20-28mm.jpg"
+    },
+    {
+        "id": 7,
+        "name":"Adjustable and compact dip bars",
+        "price": 290,
+        "image": "image/Equipments/barres-a-dips-training-station-100-ajustable.jpg"
+    },
+    {
+        "id": 8,
+        "name":"Red speed ​skipping rope",
+        "price": 39,
+        "image": "image/Equipments/corde-a-sauter-de-vitesse-bleue.jpg"
+    },
+    {
+        "id": 9,
+        "name":"Skipping rope",
+        "price": 12,
+        "image": "image/Equipments/corde-a-sauter-jr100.jpg"
+    },
+    {
+        "id": 10,
+        "name":"Cast iron bodybuilding weight",
+        "price": 199,
+        "image": "image/Equipments/disque-de-fonte-musculation-28-mm.jpg"
+    },
+    {
+        "id": 11,
+        "name":"Bodybuilding elastic",
+        "price": 79,
+        "image": "image/Equipments/elastique-cross-training-training-band-60-kg.jpg"
+    },
+    {
+        "id": 12,
+        "name":"Gluteal strength training elastic",
+        "price": 29,
+        "image": "image/Equipments/elastique-glute-band-musculation-fessiers-22kg-petit.jpg"
+    },
+    {
+        "id": 13,
+        "name":"5kg hex dumbbell",
+        "price": 99,
+        "image": "image/Equipments/haltere-5kg-hex-dumbbell.jpg"
+    },
+    {
+        "id": 14,
+        "name":"10kg hex dumbbell",
+        "price": 170,
+        "image": "image/Equipments/haltere-hex-dumbbell-10kg.jpg"
+    },
+    {
+        "id": 15,
+        "name":"Cast iron kettlebell and rubber base-8 kg",
+        "price": 120,
+        "image": "image/Equipments/kettlebell-8kg.jpg"
+    },
+    {
+        "id": 16,
+        "name":"Cast iron kettlebell and rubber base-12 kg",
+        "price": 170,
+        "image": "image/Equipments/kettlebell-12kg.jpg"
+    },
+    {
+        "id": 17,
+        "name":"Weight training kettlebell in cast iron and rubber base - 16 kg",
+        "price": 250,
+        "image": "image/Equipments/kettlebell-16kg.jpg"
+    },
+    {
+        "id": 18,
+        "name":"Cast iron kettlebell and rubber base - 20 kg",
+        "price": 270,
+        "image": "image/Equipments/kettlebell-20kg.jpg"
+    },
+    {
+        "id": 19,
+        "name":"Kit 50 kg dumbbells and weight bars",
+        "price": 690,
+        "image": "image/Equipments/kit-halteres-et-barres-50-kg-musculation.jpg"
+    },
+    {
+        "id": 20,
+        "name":"Weight training dumbbell kit 20kg",
+        "price": 259,
+        "image": "image/Equipments/kit-halteres-musculation-20-kg-filetees.jpg"
+    },
+    {
+        "id": 21,
+        "name":"Kit x3 fitness elastics resistance 5-6-7 kg",
+        "price": 19,
+        "image": "image/Equipments/kit-mini-bandes-elastiques-sport-en-latex-x3.jpg"
+    },
+    {
+        "id": 22,
+        "name":"Medicine ball 3 kg",
+        "price": 120,
+        "image": "image/Equipments/medecine-balle-toneball-lestee-3kgslashdiametre-22cm.jpg"
+    },
+    {
+        "id": 23,
+        "name":"Pump handles - push up bars",
+        "price": 29,
+        "image": "image/Equipments/poignees-pour-pompe-push-up-bars.jpg"
+    },
+    {
+        "id": 24,
+        "name":"Abdominal bodybuilding wheel with or without guiding elastic - ab wheel evo",
+        "price": 89,
+        "image": "image/Equipments/roue-abdominale-evolutive-avec-elastique-d-accompagnement-slash-ab-wheel-evolutive.jpg"
+    },
+    {
+        "id": 25,
+        "name":"Massage roller, soft - foam roller light gray",
+        "price": 79,
+        "image": "image/Equipments/rouleau-de-mobilite-et-massage-tendre-slash-soft.jpg"
+    },
+    {
+        "id": 26,
+        "name":"Bodybuilding pulling strap with wrist comfort - black",
+        "price": 55,
+        "image": "image/Equipments/sangle-de-tirage-poignet-mousse.jpg"
+    },
+    {
+        "id": 27,
+        "name":"Fitness floor mat",
+        "price": 99,
+        "image": "image/Equipments/tapis-de-sol-fitness-tonemat-m-gris-170cmx62cmx8mm.jpg"
+    },
+    {
+        "id": 28,
+        "name":"Light yoga mat",
+        "price": 140,
+        "image": "image/Equipments/tapis-de-yoga-light-5mm-v2-rose.jpg"
+    }
+]
